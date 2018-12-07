@@ -1,0 +1,16 @@
+@charset "utf-8";
+body {
+    background-color: rgb(208, 211, 23);
+}
+p#rojo {
+    border-top:red 3px solid;
+    border-bottom:red 3px solid;
+    background-color:red;
+    color:black;
+}
+p {
+    border-top: blue 3px solid;
+    border-bottom: blue 3px solid;
+    background-color: rgb(108, 141, 163);
+    color:black;
+}
